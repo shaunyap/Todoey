@@ -26,7 +26,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             print("error installing new Realm \(error)")
         }
         
-        
         return true
     }
 }
